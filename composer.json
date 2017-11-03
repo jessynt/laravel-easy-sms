@@ -1,0 +1,15 @@
+{
+  "name": "jessynt/laravel-easy-sms",
+  "type": "library",
+  "description": "A EasySMS bridge for Laravel",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jessynt",
+      "email": "jessynt@protonmail.com"
+    }
+  ],
+  "require": {
+    "illuminate/support": "5.x"
+  }
+}
