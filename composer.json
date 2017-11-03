@@ -10,6 +10,7 @@
     }
   ],
   "require": {
-    "illuminate/support": "5.x"
+    "illuminate/support": "5.x",
+    "overtrue/easy-sms": "^0.0.9"
   }
 }
