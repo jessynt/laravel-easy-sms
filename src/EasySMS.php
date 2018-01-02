@@ -1,6 +1,4 @@
 <?php
-declare(strict_types=1);
-
 namespace Jessynt\LaravelEasySMS;
 
 use Illuminate\Support\Facades\Facade as LaravelFacade;
@@ -11,7 +9,7 @@ use Illuminate\Support\Facades\Facade as LaravelFacade;
  */
 class EasySMS extends LaravelFacade
 {
-    public static function getFacadeAccessor(): string
+    public static function getFacadeAccessor()
     {
         return 'easysms';
     }

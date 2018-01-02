@@ -1,6 +1,4 @@
 <?php
-declare(strict_types=1);
-
 namespace Jessynt\LaravelEasySMS;
 
 use Illuminate\Contracts\Container\Container;
