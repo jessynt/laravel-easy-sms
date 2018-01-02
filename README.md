@@ -37,5 +37,6 @@ EasySMS::send($to, $message, $gateways = array())
 ## License
 
 [MIT](LICENSE)
+
 Copyright (c) 2017-2018 Jessynt
 
