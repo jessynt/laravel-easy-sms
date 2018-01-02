@@ -18,13 +18,13 @@ composer require jessynt/laravel-easy-sms
 Add the service provider to the `providers` array in `config/app.php`
 
 ```php
-Jessynt\LaravelEasySM\ServiceProvider::class,
+Jessynt\LaravelEasySMS\ServiceProvider::class,
 ```
 
 Publish configuration in Laravel 5
 
 ```bash
-php artisan vendor:publish --provider="Jessynt\LaravelEasySM\ServiceProvider"
+php artisan vendor:publish --provider="Jessynt\LaravelEasySMS\ServiceProvider"
 ```
 
 ## Usage
